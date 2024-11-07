@@ -1,8 +1,8 @@
 # Spotify-Dashboard-Power-BI
-1. Total Sales (in Dollars and Rupees)
-•	KPI: The overall sum of sales in both currencies.
-•	Metric: Sum of Sales_in_dollar and Sales_in_rupee.
-•	Visualization: Total Sales card or bar chart.
+1. Total Sales (in Dollars and Rupees) <br>
+•	KPI: The overall sum of sales in both currencies.<br>
+•	Metric: Sum of Sales_in_dollar and Sales_in_rupee.<br>
+•	Visualization: Total Sales card or bar chart.<br>
 2. Top 10 Artists by Sales
 •	KPI: Ranking of the top artists based on total sales.
 •	Metric: Sum of sales for each artist (grouped by Artist_Name).
